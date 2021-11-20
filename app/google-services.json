@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1012349891750",
+    "project_id": "economicodb",
+    "storage_bucket": "economicodb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012349891750:android:5f0480bbf130017a4af067",
+        "android_client_info": {
+          "package_name": "com.example.examen_2p"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012349891750-o6ekphrk1do1g78a45or3610j5cf9t0t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcx9AGbVyN4ZwPNCeTFaRiUJ_E7o0CWwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012349891750-o6ekphrk1do1g78a45or3610j5cf9t0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
